@@ -20,3 +20,8 @@ the average grade of 54.17%.
     integers = (78,67,56,99,80,83,82,91,94,95,77,88,85,92,91,79,88,82,81,86,94,93,92,45)
     
 """
+
+def main():
+    total = 24
+
+def calculate_percentage_above_average():
